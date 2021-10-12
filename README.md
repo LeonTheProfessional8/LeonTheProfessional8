@@ -9,9 +9,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=LeonTheProfessional8&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=LeonTheProfessional8&show_icons=true&theme=dark)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-⭐️ From [Isha Gupta](https://github.com/Isha2103)
