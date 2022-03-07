@@ -6,7 +6,7 @@
 ### About
 
 -  **Learning :** Full Stack Development :zap: | Python :fire:	
--  **What I'm good at :** Webdevelopment 💻 | VB 👷 | SQL 🧮
+-  **What I'm good at :** Webdevelopment | SQL | Django | 
 -  **Languages :** Python, HTML, CSS, JavaScript, SQL
 
 ---
