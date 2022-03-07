@@ -1,5 +1,5 @@
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
-# Hi there, I'm Leon - aka LeonTheProfessional8 🤝
+# Hi there, I'm Leon
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ---
