@@ -5,9 +5,9 @@
 ---
 ### About
 
--  **Learning :** Full Stack Development | Python 
--  **What I'm good at :** Webdevelopment | SQL | Django | Javascript | Electron
--  **Languages :** Python, HTML, CSS, JavaScript, SQL
+-  **Learning :** Full Stack Development 
+-  **What I'm good at :** Webdevelopment | SQL | C# | WinUI
+-  **Languages :** Python, HTML, CSS, JavaScript, SQL, C#
 
 ---
 
