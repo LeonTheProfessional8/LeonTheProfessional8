@@ -6,7 +6,7 @@
 ### About
 
 -  **Learning :** Full Stack Development 
--  **What I'm good at :** Webdevelopment | SQL | C# | WinUI
+-  **What I'm good at :** Webdevelopment | SQL | C# | WinUI | Python
 
 ---
 
